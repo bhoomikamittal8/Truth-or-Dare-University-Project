@@ -5,8 +5,13 @@ Android Studio is the go-to tool for building Android apps. It's packed with fea
 <hr>
 
 # Truth or Dare Game
+<img src="https://github.com/bhoomikamittal8/Truth-or-Dare-University-Project/assets/134505091/488e2380-79c7-4638-8a75-026460840b2c" alt="App Screenshot" width="200"> 
+<img src="https://github.com/bhoomikamittal8/Truth-or-Dare-University-Project/assets/134505091/845589d5-1597-4aef-9102-4503e235e20d" alt="App Screenshot" width="211"><br><br>
+<img src="https://github.com/bhoomikamittal8/Truth-or-Dare-University-Project/assets/134505091/4ac35f80-52aa-407c-9e2f-4be967485294" alt="App Screenshot" width="222">
+<img src="https://github.com/bhoomikamittal8/Truth-or-Dare-University-Project/assets/134505091/70c521b8-a02e-4cc5-a4f3-34a172c5b226" alt="App Screenshot" width="234">
+<img src="https://github.com/bhoomikamittal8/Truth-or-Dare-University-Project/assets/134505091/a7d175bf-a2e3-467c-be05-5d9116e57c24" alt="App Screenshot" width="205">
 
-![App Screenshot](screenshot.png)
+
 
 ## Description
 
