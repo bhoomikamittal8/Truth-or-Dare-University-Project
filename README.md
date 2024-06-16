@@ -49,8 +49,8 @@ To get started with the Truth or Dare game app, follow these steps:
 ---
 ## Contact 📞
 
-#### If you have any doubt or need the Project Report free to email me [email](bhoomikamittal418@gmail.com) or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal/)
-
+#### Feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal48/)
+#### Mail ID : bhoomikamittal418@gmail.com
 
 
 
